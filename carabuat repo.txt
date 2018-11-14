@@ -1,0 +1,11 @@
+Buat repo di https://github.com
+--------------
+1) hit url https://github.com/new
+2) ke git bash
+$ git clone https://github.com/adiwirak/firstrepo.git
+cd firstrepo
+git remote add origin https://github.com/adiwirak/firstrepo.git
+
+
+git push -u origin master
+
